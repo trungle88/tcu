@@ -1,0 +1,65 @@
+@font-face {
+	font-family: 'moonface-script-bold';
+	src: url('moonface-script-bold.eot');
+	src: url('moonface-script-bold.eot?#iefix') format('embedded-opentype'),
+		 url('moonface-script-bold.woff') format('woff'),
+		 url('moonface-script-bold.ttf') format('truetype'),
+		 url('moonface-script-bold.svg#moonface-script-bold') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'moonface-script-heavy';
+	src: url('moonface-script-heavy.eot');
+	src: url('moonface-script-heavy.eot?#iefix') format('embedded-opentype'),
+		 url('moonface-script-heavy.woff') format('woff'),
+		 url('moonface-script-heavy.ttf') format('truetype'),
+		 url('moonface-script-heavy.svg#moonface-script-heavy') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Rockwell';
+	src: url('Rockwell.eot');
+	src: url('Rockwell.eot?#iefix') format('embedded-opentype'),
+		 url('Rockwell.woff') format('woff'),
+		 url('Rockwell.ttf') format('truetype'),
+		 url('Rockwell.svg#Rockwell') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Rockwell';
+	src: url('Rockwell-Bold.eot');
+	src: url('Rockwell-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('Rockwell-Bold.woff') format('woff'),
+		 url('Rockwell-Bold.ttf') format('truetype'),
+		 url('Rockwell-Bold.svg#Rockwell') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'Rockwell';
+	src: url('Rockwell-ExtraBold.eot');
+	src: url('Rockwell-ExtraBold.eot?#iefix') format('embedded-opentype'),
+		 url('Rockwell-ExtraBold.woff') format('woff'),
+		 url('Rockwell-ExtraBold.ttf') format('truetype'),
+		 url('Rockwell-ExtraBold.svg#Rockwell') format('svg');
+	font-style: normal;
+	font-weight: 800;
+}
+
+@font-face {
+	font-family: 'avenir-roman';
+	src: url('avenir-roman.eot');
+	src: url('avenir-roman.eot?#iefix') format('embedded-opentype'),
+		 url('avenir-roman.woff') format('woff'),
+		 url('avenir-roman.ttf') format('truetype'),
+		 url('avenir-roman.svg#avenir-roman') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
